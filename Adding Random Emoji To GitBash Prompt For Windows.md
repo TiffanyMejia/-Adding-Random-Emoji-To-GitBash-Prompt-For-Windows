@@ -82,7 +82,8 @@ Step 5: Make it pretty
 
 ​	Change settings to match ones below
 
- ![image-20220113192159296](C:\Users\Heather\AppData\Roaming\Typora\typora-user-images\image-20220113192159296.png)
+ ![image-20220113192159296](C:\Users\Heather\AppData\Roaming\Typora\typora-user-images\image-20220113192159296.png)![image](https://user-images.githubusercontent.com/97050594/149541142-c361b64f-76b2-4961-a628-8a1a3ff9abfc.png)
+
 
 
 
